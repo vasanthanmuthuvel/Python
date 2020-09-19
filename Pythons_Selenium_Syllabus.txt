@@ -1,0 +1,55 @@
+Selenium Basics
+Components of Selenium
+Applications and Uses
+Features
+Limitations
+Selenium Python Basics - Python basices, methods,Collections, Oops conceps
+
+Selenium Python Introduction and Installation
+Navigating links using get method
+Interacting with Webpage
+Locating single elements
+Locating multiple elements
+Locator Strategies – Selenium Python
+Writing Tests using Selenium Python
+Locating Strategies
+
+Waits
+-----
+Explicit waits
+Implicit Waits
+Action Chains
+
+Action Chains Basics
+click
+click_and_hold
+context_click
+double_click
+drag_and_drop
+key_down
+key_up
+move_by_offset
+move_to_element
+move_to_element_with_offset
+release
+reset_actions
+send_keys
+Advanced in Selenium Python –
+
+Handling Exceptions – Selenium Python
+Special Keys in Selenium Python
+How to handle alert prompts in Selenium Python
+Adding and Deleting Cookies in Selenium Python
+How to move back and forward in History using Selenium Python 
+Special Keys in Selenium Python
+Assertion in Selenium WebDriver using TestNg
+Selenium Python Tricks
+Page Object Model (POM)
+
+
+How to access popup login window in selenium using Python
+
+Frameworks
+PyTest
+
+Project Examples

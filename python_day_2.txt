@@ -1,0 +1,99 @@
+extension .py
+
+Collections
+-----------
+List
+Tuple
+Dictionary
+Set
+
+0  1  2  3  4  5  6
+W  e  l  c  o  m  e
+-7 -6 -5 -4 -3 -2 -1
+
+str[-2:-4:-1]
+str[-2:-4]
+
+[1,4,9,16,25,36]
+
+[exp for variable in collection]
+
+[true if exp else false]
+
+[exp for variable in collection if exp]
+
+
+Tuple - Immutable list - mutable
+Dictionary
+Set
+
+List =[] - mind order -, but allow duplicates
+Tuple = ()--- Immutable
+Dictionary={}  --- {'key':'value'}
+Set ={}  - Will not allow Duplice-- does not mind order
+
+next week
+-----------
+builin methods
+user defined methods
+
+0 1 2       3
+1,2,3,['a','b','c']
+
+
+li=['a','b','x','4']
+
+expected output = 'abx4'
+
+string='AmazoN'
+
+expected output = 'aMAZOn'
+
+without using upper(), lower() methods
+#################################################################
+0 1 2 3 4 5 6 7
+W e l c o m e t o S e s s i o n - find will give always starting position of match
+
+
+Functions
+
+Normal User defined functoins
+Signature
+def functionName(arg1="Welcome",arg2....): Default Arguments
+	Function definition(Python Statements)
+
+	
+With Arguments - FunctionName(arg1,arg2) -positional
+With Arguments - FunctionName(arg1="Welcome",arg2="to session")
+With Arguments - FunctionName(arg1,arg2)
+* - positional Arguments
+** - Keyword Arguments
+
+Higher order Functions - Assign Function to Variable
+Lambda - lambda args:exps
+
+def sq(x):
+	return x**2
+
+print(sq(5))--->25
+
+print(lambda x:x**2)
+
+
+argument as Function
+return as funcition
+
+Nested Function
+
+
+
+
+
+
+
+
+
+
+
+
+
