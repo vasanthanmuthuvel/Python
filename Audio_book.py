@@ -1,10 +1,9 @@
 import pyttsx3
-toSpeak=pyttsx3.init()
-strList=['Hi Friends How are you','Stage 1 Learing python','Stage 2-Mastering Python','Stage 3 Becoming world class programmer']
+toSpeak = pyttsx3.init()
+strList = ['Hi Friends How are you', 'Stage 1 Learing python',
+           'Stage 2-Mastering Python', 'Stage 3 Becoming world class programmer']
 for i in strList:
     toSpeak.say(i)
-
-
 
 toSpeak.runAndWait()
 

@@ -29,4 +29,3 @@ print(list1)
 
 set1 = {232, 423, 232,943,98,323,'dfdf'}
 print(set1)
-

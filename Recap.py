@@ -1,4 +1,4 @@
-# #Print 
+# #Print
 # print("This is python")
 # # check = input("Enter the value ")
 # # print(check)
@@ -82,11 +82,8 @@ if '@' in email:
     companyName = companyName.replace("." + extension, "")
     for c in userName:
         if not c == '-' or c == '_' or c.isalnum():
-            result=False
-    print(userName,companyName,extension)
-    
+            result = False
+    print(userName, companyName, extension)
+
 else:
     print(False)
-
-
-
